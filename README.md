@@ -1,2 +1,2 @@
-# SmoothSort
-This is my implementation of SmoothSort in Java
+# SmoothSortArray.SmoothSort
+This is my implementation of SmoothSortArray.SmoothSort in Java
